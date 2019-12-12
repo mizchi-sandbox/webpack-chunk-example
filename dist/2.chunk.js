@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{2:function(n,o,a){"use strict";a.r(o),o.default=async()=>{const n=await a.e(1).then(a.bind(null,3));console.log("bar",n.default)}}}]);
